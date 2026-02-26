@@ -1,3 +1,4 @@
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -164,7 +165,7 @@
         const tg = window.Telegram.WebApp;
         tg.expand();
         tg.HideHeader();
-        
+
         const toggles = [
             document.getElementById('toggle1'),
             document.getElementById('toggle2'),
